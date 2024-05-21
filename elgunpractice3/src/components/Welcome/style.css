@@ -1,0 +1,48 @@
+.welcome-section{
+    width: 60%;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 5%;
+}
+.title{
+    width: 50%;
+    height: 400px;
+    margin-top: 2%;
+}
+.image{
+    width: 50%;
+    height: 400px;
+    background-image: url("https://preview.colorlib.com/theme/eatwell/images/about_img_1.jpg.webp");
+    background-position: top;
+    background-size: cover;
+}
+.span1{
+    color: gray;
+    font-size: 20px;
+}
+.span2{
+    color: black;
+    font-size: 60px;
+}
+.span3{
+    color: gray;
+    font-size: 20px;
+}
+.span4{
+    color: gray;
+    font-size: 20px;
+}
+.btn1{
+    width: 240px;
+    height: 50px;
+   color: gray;
+   border: 1px solid gray;
+   transition: 300ms;
+   font-size: 15px;
+}
+.btn1:hover{
+    color: black;
+    background-color: rgb(253,164,3);
+    transition: 300ms;
+}

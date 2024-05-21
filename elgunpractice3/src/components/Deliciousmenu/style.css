@@ -1,0 +1,148 @@
+.delicious-section-title{
+    width: 100%;
+   text-align: center;
+   margin-top: 15%;
+}
+.delicious-span2{
+    font-size: 60px;
+    color: black;
+}
+.delicious-span3{
+    font-size: 20px;
+    color: gray;
+}
+.deliciousmenu-section-buttons1{
+    width: 150px;
+    height: 40px;
+    border: 1px solid gray;
+    background-color: white;
+    color: gray;
+    transition: 300ms;
+    margin-right: 1%;
+}
+.deliciousmenu-section-buttons1:hover{
+    width: 150px;
+    height: 40px;
+    border: 1px solid black;
+    background-color: white;
+    transition: 300ms;
+    color: black;
+}
+.deliciousmenu-section-buttons2{
+    width: 150px;
+    height: 40px;
+    border: 1px solid gray;
+    background-color: white;
+    color: gray;
+    transition: 300ms;
+    margin-right: 1%;
+}
+.deliciousmenu-section-buttons2:hover{
+    width: 150px;
+    height: 40px;
+    border: 1px solid black;
+    background-color: white;
+    transition: 300ms;
+    color: black;
+}
+.deliciousmenu-section-buttons3{
+    width: 150px;
+    height: 40px;
+    border: 1px solid gray;
+    background-color: white;
+    color: gray;
+    transition: 300ms;
+}
+.deliciousmenu-section-buttons3:hover{
+    width: 150px;
+    height: 40px;
+    border: 1px solid black;
+    background-color: white;
+    transition: 300ms;
+    color: black;
+}
+
+
+
+.delicious-section-cards{
+    width: 60%;
+    height: 600px;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 5%;
+}
+.delicious-section-card1{
+    width: 45%;
+    height: 600px;
+}
+.card1-option1{
+    width: 100%;
+    height: 190px;
+    display: flex;
+}
+.card1-option2{
+    width: 100%;
+    height: 190px;
+    display: flex;
+}
+.card1-option3{
+    width: 100%;
+    height: 190px;
+    display: flex;
+}
+.card1-option1-image{
+    width: 50%;
+    height: 60%;
+    background-image: url("https://preview.colorlib.com/theme/eatwell/images/menu_1.jpg");
+    border-radius: 50%;
+    background-position: center;
+   background-size: cover;
+   margin-right: 3%;
+}
+.card1-option2-image{
+    width: 50%;
+    height: 60%;
+    background-image: url("https://preview.colorlib.com/theme/eatwell/images/menu_2.jpg");
+    border-radius: 50%;
+    background-position: center;
+   background-size: cover;
+   margin-right: 3%;
+}
+.card1-option3-image{
+    width: 50%;
+    height: 60%;
+    background-image: url("https://preview.colorlib.com/theme/eatwell/images/menu_3.jpg");
+    border-radius: 50%;
+    background-position: center;
+   background-size: cover;
+   margin-right: 3%;
+}
+
+
+.card1-option4-image{
+    width: 50%;
+    height: 60%;
+    background-image: url("https://preview.colorlib.com/theme/eatwell/images/menu_2.jpg");
+    border-radius: 50%;
+    background-position: center;
+   background-size: cover;
+   margin-right: 3%;
+}
+.card1-option5-image{
+    width: 50%;
+    height: 60%;
+    background-image: url("https://preview.colorlib.com/theme/eatwell/images/menu_1.jpg");
+    border-radius: 50%;
+    background-position: center;
+   background-size: cover;
+   margin-right: 3%;
+}
+.card1-option6-image{
+    width: 50%;
+    height: 60%;
+    background-image: url("https://preview.colorlib.com/theme/eatwell/images/menu_3.jpg");
+    border-radius: 50%;
+    background-position: center;
+   background-size: cover;
+   margin-right: 3%;
+}

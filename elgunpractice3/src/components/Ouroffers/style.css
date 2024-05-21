@@ -1,0 +1,57 @@
+.ouroffers-section-title{
+    width: 100%;
+   text-align: center;
+   margin-top: 15%;
+}
+.ouroffers-span1{
+    font-size: 20px;
+    color: gray;
+}
+.ouroffers-span2{
+    font-size: 60px;
+    color: black;
+}
+.ouroffers-span3{
+    font-size: 20px;
+    color: gray;
+}
+
+
+
+.ouroffers-section-allcards{
+    width: 70%;
+    height: 600px;
+    margin: 0 auto;
+    display: flex;
+    gap: 1%;
+    margin-top: 5%;
+}
+.ouroffers-section-card1{
+    width: 30%;
+    height: 600px;
+    text-align: center;
+}
+.ouroffers-span4{
+    font-size: 20px;
+    color: rgb(253,164,3);
+}
+.ouroffers-span5{
+    font-size: 25px;
+    color: black;
+}
+.ouroffers-span6{
+    font-size: 20px;
+    color: gray;
+}
+.ouroffers-section-button{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(253,164,3);
+    color: white;
+    border: none;
+    transition: 300ms;
+}
+.ouroffers-section-button:hover{
+    background-color: rgb(139, 91, 0);
+    transition: 300ms;
+}
